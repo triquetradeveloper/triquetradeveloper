@@ -16,4 +16,4 @@ I am a python basic level developer
 [![](https://visitcount.itsvg.in/api?id=triquatradeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/triquatradeveloper/triquatradeveloper/blob/output/github-snake-dark.svg)
