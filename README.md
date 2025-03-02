@@ -10,7 +10,7 @@ Let’s connect and build transformative digital experiences together.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![html](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v2.png" alt="html-5--v2"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=triquatradeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
