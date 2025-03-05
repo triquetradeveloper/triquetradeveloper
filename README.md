@@ -7,12 +7,11 @@
 ---
 
 ## 🌟 About Me:
-- 🔥 A Python & HTML developer passionate about efficiency, scalability, and user-centric solutions.
+- 🔥 I am a Python & HTML developer passionate about crafting efficient, scalable, and user-centric solutions.
 - 🛠️ Specializing in **backend development, API integrations, and automation**.
-- 🎨 Creating **responsive and visually appealing** user interfaces with HTML & CSS.
-- 🧠 Always **learning and evolving** to stay ahead in the tech world.
-- 🌍 Open-source advocate, **collaborating & innovating** to build transformative experiences.
-- 🚀 Let's connect and create something awesome together!  
+- 🎨 Creating **responsive and visually appealing** interfaces with HTML & CSS.
+- 📚 Always learning, exploring, and mastering new technologies.
+- 🚀 I thrive on transforming challenges into opportunities for growth.
 
 ---
 
@@ -22,7 +21,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 ---
@@ -45,17 +45,7 @@
 
 ---
 
-## 🎯 Connect with Me:
-<p align="center">
-  <a href="https://github.com/triquatradeveloper">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
----
-
-
-
-### 🐍 Watch My Contribution Snake:
+### 🐍 Contribution Snake:
 <p align="center">
   <img src="https://github.com/triquatradeveloper/triquatradeveloper/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
