@@ -50,21 +50,10 @@
   <a href="https://github.com/triquatradeveloper">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=triquatradeveloper&icon=0&color=0" alt="Profile Views" />
-</p>
 
----
 
 ### 🐍 Watch My Contribution Snake:
 <p align="center">
