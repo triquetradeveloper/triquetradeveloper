@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Passionate+Python+%26+Web+Developer;Crafting+Scalable+%26+Efficient+Solutions" alt="Typing SVG" />
 </p>
+
 ---
 ## 🌟 About Me:
 - 🔥 I am a Python & HTML developer passionate about crafting efficient, scalable, and user-centric solutions.
@@ -10,7 +11,6 @@
 - 🎨 Creating **responsive and visually appealing** interfaces with HTML & CSS.
 - 📚 Always learning, exploring, and mastering new technologies.
 - 🚀 I thrive on transforming challenges into opportunities for growth.
-
 ---
 
 ## 🛠️ Tech Stack:
