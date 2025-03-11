@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Passionate+Python+%26+Web+Developer;Crafting+Scalable+%26+Efficient+Solutions" alt="Typing SVG" />
 </p>
----![Screenshot 2025-03-11 162605](https://github.com/user-attachments/assets/fec59dbf-5926-4a3e-a630-f27138b89412)
-
-
+---
 ## 🌟 About Me:
 - 🔥 I am a Python & HTML developer passionate about crafting efficient, scalable, and user-centric solutions.
 - 🛠️ Specializing in **backend development, API integrations, and automation**.
