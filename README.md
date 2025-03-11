@@ -6,11 +6,12 @@
 
 ---
 ## 🌟 About Me:
-- 🔥 I am a Python & HTML developer passionate about crafting efficient, scalable, and user-centric solutions.
+- 🔥 Python & Web Developer passionate about crafting **efficient, scalable, and user-centric solutions**.
 - 🛠️ Specializing in **backend development, API integrations, and automation**.
-- 🎨 Creating **responsive and visually appealing** interfaces with HTML & CSS.
-- 📚 Always learning, exploring, and mastering new technologies.
-- 🚀 I thrive on transforming challenges into opportunities for growth.
+- 🎨 Building **responsive and visually appealing** interfaces with HTML & CSS.
+- 📚 Constantly learning and mastering new technologies.
+- 🚀 Transforming challenges into opportunities for growth.
+
 ---
 
 ## 🛠️ Tech Stack:
