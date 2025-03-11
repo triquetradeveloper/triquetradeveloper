@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Passionate+Python+%26+Web+Developer;Crafting+Scalable+%26+Efficient+Solutions" alt="Typing SVG" />
 </p>
 ---
-https://yt3.googleusercontent.com/wOsBHgjPrjYSGFkrBqKqdfvtP9Y2ZDf1fm0BqMl7Rmf1Adruqdg_lhoNgOIr2xJKm1zuMFbzOA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj
 ## 🌟 About Me:
 - 🔥 I am a Python & HTML developer passionate about crafting efficient, scalable, and user-centric solutions.
 - 🛠️ Specializing in **backend development, API integrations, and automation**.
