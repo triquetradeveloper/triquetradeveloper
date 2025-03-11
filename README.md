@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Passionate+Python+%26+Web+Developer;Crafting+Scalable+%26+Efficient+Solutions" alt="Typing SVG" />
 </p>
 ---
-![image](https://github.com/user-attachments/assets/39083dea-bac4-4986-8453-e3b79fbc2821)
+[![image](https://github.com/user-attachments/assets/39083dea-bac4-4986-8453-e3b79fbc2821)](https://www.canva.com/design/DAGhaa6SkHU/4LDrT0WG-mmqumnTawerXQ/edit?utm_content=DAGhaa6SkHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
