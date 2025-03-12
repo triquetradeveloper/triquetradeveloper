@@ -1,72 +1,81 @@
-<h1 align="center">🚀 Faizan Saleem | Python & Web Developer</h1>
+### **🌟 Welcome to My GitHub Profile!**  
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Passionate+Python+%26+Web+Developer;Crafting+Scalable+%26+Efficient+Solutions" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=500&lines=Python+%7C+HTML+%7C+Backend+%7C+Automation;Innovator+%7C+Tech+Enthusiast+%7C+Open-Source+Contributor;Building+Scalable+%26+User-Centric+Solutions)
 
----
-
-## 🌟 About Me:
-- 🔥 A Python & HTML developer passionate about efficiency, scalability, and user-centric solutions.
-- 🛠️ Specializing in **backend development, API integrations, and automation**.
-- 🎨 Creating **responsive and visually appealing** user interfaces with HTML & CSS.
-- 🧠 Always **learning and evolving** to stay ahead in the tech world.
-- 🌍 Open-source advocate, **collaborating & innovating** to build transformative experiences.
-- 🚀 Let's connect and create something awesome together!  
+</div>
 
 ---
 
-## 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+## 🚀 **About Me**  
+🎯 **Python & HTML Developer** passionate about **building efficient, scalable, and user-friendly** applications.  
+⚡ Strong backend expertise with **Python**, combined with front-end magic using **HTML & CSS**.  
+📌 Dedicated to writing **clean, maintainable, and performance-optimized** code.  
+💡 Believer in **open-source collaboration, continuous learning, and problem-solving.**  
+🚀 Thrives in dynamic environments where challenges become opportunities.  
+
+> **"Transforming ideas into impactful digital experiences!"**
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=triquetradeveloper&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=triquetradeveloper&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triquetradeveloper&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+## 🔥 **Tech Stack**  
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+
+</div>
 
 ---
 
-## 🔥 Top Contributions:
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=triquatradeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
+## 📈 **GitHub Stats**
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=triquetradeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=triquetradeveloper&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=triquetradeveloper&theme=radical&hide_border=false&layout=compact)  
+
+</div>
 
 ---
 
-## 🎯 Connect with Me:
-<p align="center">
-  <a href="https://github.com/triquatradeveloper">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🏆 **GitHub Achievements**  
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=triquetradeveloper&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=triquatradeveloper&icon=0&color=0" alt="Profile Views" />
-</p>
+## 🔝 **Top Contributed Repos**
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=triquetradeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 
-### 🐍 Watch My Contribution Snake:
-<p align="center">
-  <img src="https://github.com/triquatradeveloper/triquatradeveloper/blob/output/github-snake-dark.svg" alt="Snake Animation" />
-</p>
+## 🌍 **Connect With Me**
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/triquetradeveloper)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triquetradeveloper)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/triquetradeveloper)  
+
+</div>
+
+---
+
+### 🐍 **Snake Eating Contributions**
+![Snake animation](https://github.com/triquetradeveloper/triquetradeveloper/blob/output/github-snake-dark.svg)
+
+---
+
+#### ⭐ **If you like my work, consider giving my repositories a star!** ⭐  
+🎉 **Happy Coding!** 🚀  
