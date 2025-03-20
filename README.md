@@ -46,8 +46,10 @@
 
 ## 🏆 **GitHub Achievements**  
 <div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=triquetradeveloper&theme=juicyfresh&column=4&row=1&no-frame=true&margin-w=15&margin-h=15&layout=compact)
+
   
-   ![Trophy](https://github-profile-trophy.vercel.app/?username=triquetradeveloper&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7)
 </div>
 
 ---
