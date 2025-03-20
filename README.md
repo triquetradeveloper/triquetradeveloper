@@ -1,4 +1,4 @@
-### **🌟 Welcome to My GitHub Profile!**  
+# **🌟 Welcome to My GitHub Profile!**  
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=500&lines=Python+%7C+HTML+%7C+Backend+%7C+Automation;Innovator+%7C+Tech+Enthusiast+%7C+Open-Source+Contributor;Building+Scalable+%26+User-Centric+Solutions)
@@ -8,13 +8,13 @@
 ---
 
 ## 🚀 **About Me**  
-🎯 **Python & HTML Developer** passionate about **building efficient, scalable, and user-friendly** applications.  
-⚡ Strong backend expertise with **Python**, combined with front-end magic using **HTML & CSS**.  
-📌 Dedicated to writing **clean, maintainable, and performance-optimized** code.  
-💡 Believer in **open-source collaboration, continuous learning, and problem-solving.**  
-🚀 Thrives in dynamic environments where challenges become opportunities.  
+🎯 **Python & HTML Developer** with a passion for **creating efficient, scalable, and user-friendly** applications.  
+⚡ Expertise in **backend development** with **Python**, alongside front-end wizardry in **HTML & CSS**.  
+📌 Driven by a commitment to **clean, maintainable, and high-performance code**.  
+💡 Enthusiast of **open-source collaboration**, **continuous learning**, and **problem-solving**.  
+🚀 Energized by dynamic environments where every challenge is a chance to innovate.
 
-> **"Transforming ideas into impactful digital experiences!"**
+> **"Transforming ideas into meaningful digital experiences, one line of code at a time!"**
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 **GitHub Stats**  
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=triquetradeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
@@ -49,21 +49,18 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=triquetradeveloper&theme=juicyfresh&column=4&row=1&no-frame=true&layout=compact&rank=ryo-ma)
 
-
-  
 </div>
 
 ---
 
-## 🔝 **Top Contributed Repos**
+## 🔝 **Top Contributed Repos**  
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=triquetradeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
+---
 
-
-### 🐍 **Snake Eating Contributions**
+## 🐍 **Snake Eating Contributions**  
 ![Snake animation](https://github.com/triquetradeveloper/triquetradeveloper/blob/output/github-snake-dark.svg)
-
